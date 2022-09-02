@@ -1,0 +1,378 @@
+{
+    "allTech":[
+        {
+            "num":1,
+            "title":"Why you should study Computer science",
+            "content":"If you see yourself designing and creating software systems, then computer science might be the right course of study for you. If you are thinking of becoming a manager or administrator to a technical enterprise, a degree in computer science or information and computer sciences could provide you with the background needed to achieve your goals. If you are thinking about becoming a researcher in a technical field, information and computer sciences could provide you with the skills and knowledge necessary to succeed.Computer science is a dynamic and rapidly growing area that has become an integral part of the world that we live in today. Having a degree in this field will provide you with a deep understanding of theories and emerging technologies. This knowledge and experience will allow you to develop cutting-edge solutions that address today’s challenges. When applied in an interdisciplinary fashion, students can also draw on their other areas of interest such as biology, business, cyber security, economics, engineering, information assurance, languages and linguistics, mathematics, physics, public policy, etc., to address a wider range of complex issues.",
+            "abstract":"If you see yourself designing and creating software systems, then....",
+            "category":"Tech",
+            "location":"/images/tech-img/cspursue.png",
+            "date":"29-July-2022"
+        },
+        {
+            "num":2,
+            "title":"Data science on the boom",
+            "content":"If it feels like your team is full of data fanatics, you're not mistaken.The growth in U.S. jobs related to fields including data science and machine learning compared to other tech roles has been explosive over the past six years, according to analysis by the job-listing site Indeed, carried out for Protocol.For roles related to machine learning, the proportion of advertised jobs per million overall tech jobs more than tripled between May 2015 and May 2021, from 1,021 roles per million tech jobs to 3,289. Data science roles told a similar story, with an increase from 784 roles per million to 2,448 over the same period. And deep learning saw an incredible 1,441% increase, from just 35 roles per million to 544. (Those deep learning experts might've preferred we use a logarithmic scale.)The waves of the COVID-19 pandemic put a natural dampener on data-related job listings, as they did across broad swathes of the economy. But the recovery in hiring across these data roles in May, as the vaccination program became pervasive, was sharp.",
+            "abstract":"If it feels like your team is full of data fanatics, you're not mistaken...",
+            "category":"Tech",
+            "location":"/images/tech-img/datascienceart.png",
+            "date":"30-May-2022"
+        },
+        {
+            "num":3,
+            "title":"Full stack development",
+            "content":"Full stack development: It refers to the development of both front end(client side) and back end(server side) portions of web application.Full stack web Developers: Full stack web developers have the ability to design complete web applications and websites. They work on the frontend, backend, database and debugging of web applications or websites. Front end is the visible part of website or web application which is responsible for user experience. The user directly interacts with the front end portion of the web application or website. Backend refers to the server-side development of web application or website with a primary focus on how the website works. It is responsible for managing the database through queries and APIs by client-side commands. This type of website mainly consists of three parts front end, back end, and database.",
+            "abstract":"Full stack development: It refers to the development of both front end...",
+            "category":"Tech",
+            "location":"/images/tech-img/fullstack.png",
+            "date":"15-November-2022"
+        },
+        {
+            "num":4,
+            "title":"React web development",
+            "content":"React is remarkably flexible. Once you have learned it, you can use it on a vast variety of platforms to build quality user interfaces. React is a library, NOT a framework. Its library approach has allowed React to evolve into such a remarkable tool.React was created with a single focus: to create components for web applications. A React component can be anything in your web application like a Button, Text, Label, or Grid.But as React's popularity is grown, its ecosystem has also grown to cover various use cases.You can generate a static site with React using tools like Gatsby. You can use React Native to build mobile apps. You can even create Desktop applications using a tool like Electron, which can run on mac and windows with React.js technology.React also supports server rendering of its components using tools like Next.js. You can also use React.js to create a virtual reality website and 360 experiences using React VR.You can use React in your existing apps too. React was designed keeping this in mind. You can change a small part of your existing application by using React, and if that change works, then you can start converting your whole application into React.js. Facebook used the same approach.",
+            "abstract":"React is remarkably flexible. Once you have learned it...",
+            "category":"Tech",
+            "location":"/images/tech-img/reactweb.png",
+            "date":"25-April-2022"
+        },
+        {
+            "num":5,
+            "title":"Harvard CS50",
+            "content":"CS50 is a Harvard introduction to computer science course. This course is not just made to be completed online, it is the actual course taught to Harvard students. All lectures are filmed in Harvard and put online, along with the assignments, tutorial videos and all supporting notes (notes and assignments linked below if you want a peek). Your assignments are graded, so you are held to the same standard as the actual Harvard students. All of this is, incredibly, available completely for free.The course starts from the very basics, explaining binary and using the visual, block based programming language Scratch before moving on to C. The difficulty ramps up very quickly from there, with in depth discussions on how the computer processes the code, how information is stored in memory and what data structures are. It then moves on to HTML, Javascript and Python. By the end you are running a web server and pulling data from APIs.As someone who learned programming through online courses I have always wondered if I am missing out on something by not studying the more theoretical modules that university students do. Despite only being an intro, this course helped give me a much better idea of what a computer is doing with the code I write and address some of this self doubt I had.",
+            "abstract":"CS50 is a Harvard introduction to computer science course...",
+            "category":"Tech",
+            "location":"/images/tech-img/harvard.jfif",
+            "date":"07-January-2022"
+        }
+    ],
+    "recentTech":[
+        {
+            "num":1,
+            "title":"Why you should study Computer science",
+            "category":"Tech",
+            "location":"/images/tech-img/cspursue.png",
+            "date":"29-July-2022"
+        },
+        {
+            "num":2,
+            "title":"Data science on the boom",
+            "category":"Tech",
+            "location":"/images/tech-img/datascienceart.png",
+            "date":"30-May-2022"
+        },
+        {
+            "num":3,
+            "title":"Full stack development",
+            "category":"Tech",
+            "location":"/images/tech-img/fullstack.png",
+            "date":"15-November-2022"
+        }
+    ],
+    "allSports":[
+        {
+            "num":1,
+            "title":"Usain Bolt, an elite athlete",
+            "content":"Usain Bolt currently holds the world records for men's 100m, 200m sprints and was part of the 4x100m world record-holding Jamaican quartet that included Nesta Carter, Michael Frater and Yohan Blake.Usain Bolt’s 100m recordsUsain Bolt set the current 100m world record at the 2009 IAAF World Championships, clocking an astonishing 9.58 seconds for the feat.At the record-winning event, Usain Bolt’s average ground speed was 37.58km/h, whilst reaching a top speed of 44.72km/h in the 60-80m stretch – numbers fitting for the world’s fastest man.",
+            "abstract":"Usain Bolt currently holds the world records for men's...",
+            "category":"Sports",
+            "location":"/images/tech-img/usainbolt.jfif",
+            "date":"05-June-2022"
+        },
+        {
+            "num":2,
+            "title":"Lionel Messi, Argentine Gem",
+            "content":"Lionel Messi is a football player from Argentina who plays for FC Barcelona. He has won the Ballon D'Or, the annual award given to the best player in the world, 7 times and an Olympic gold medal winner in 2008. He was born in 1987 in Rosario, Argentina's third-biggest city. He showed an enormous aptitude for football and was in the youth teams for Newell's Old Boys, his local team. Faced with mounting medical expenses to treat a growth hormone condition, Messi's family accepted an offer to move the 13-year-old prodigy to FC Barcelona, who would pay for his treatment. Messi has gone on to become one of the most decorated players in football history and has broken countless records for his club and his country.",
+            "abstract":"Lionel Messi is a football player from Argentina who plays for...",
+            "category":"Sports",
+            "location":"/images/tech-img/lionelmessi.jfif",
+            "date":"30-May-2022"
+        },
+        {
+            "num":3,
+            "title":"Cristiano Ronaldo, a phenomenon",
+            "content":"Cristiano Ronaldo is a Portuguese professional footballer who has played for Manchester United, Real Madrid, Juventus and Portugal. Along with Lionel Messi, he is regularly considered to be one of the top two players in the world. He became the world’s most expensive player when Real Madrid signed him for 94 million Euros in 2009 from Manchester United. His sustained performance has enabled him to break numerous records for goal scoring and has been named FIFA player of the year (Ballon d’Or) five times. He has become an iconic figure in the sport, with an impressive record of 1,000 professional appearances and over 700 goals.",
+            "abstract":"Cristiano Ronaldo is a Portuguese professional footballer who has played for...",
+            "category":"Sports",
+            "location":"/images/tech-img/cristiano.jfif",
+            "date":"25-June-2022"
+        },
+        {
+            "num":4,
+            "title":"Kobe Bryant, the G.O.A.T of Basketball",
+            "content":"Born to a former NBA player, Joe Bryant, Kobe attended Lower Merion High School in Pennsylvania, where he was recognized as the top high-school basketball player in the country. Bryant started playing basketball at a young age of 3 years and the Lakers were his favorite team when he was growing up. At an early age, he also learned to play soccer. Drafted to the N.B.A. directly out of high school in 1996, Bryant was named an All-Star in 18 of his 20 seasons for the Lakers and helped lead the team to five championships.At 34 years and 104 days of age, Bryant became the youngest player in league history to reach 30,000 career points. He became the all-time leading scorer in Lakers franchise history on February 1, 2010, when he surpassed Jerry West. During his third year in the league, Bryant was chosen to start the All-Star Game and was selected to start that game for a record 18 consecutive appearances until his retirement. At the time he became the youngest player ever to play in an NBA game (18 years, 72 days). ",
+            "abstract":"Born to a former NBA player, Joe Bryant, Kobe attended...",
+            "category":"Sports",
+            "location":"/images/tech-img/kobe.jfif",
+            "date":"22-May-2022"
+        },
+        {
+            "num":5,
+            "title":"Michael Phelps, real life Aquaman",
+            "content":"Michael Phelps is arguably the greatest Olympian ever. Some might argue that Usain Bolt, Carl Lewis or Nadia Comaneci have a claim. But for sheer numbers of medals claimed, there is a clear, hands-down winner: Michael Phelps. Even given the fact that Phelps practices a sport in which extremely capable athlete can bag golds across different distances and strokes, his feats still blow away those of any other sportsperson.Phelps has 28 medals in total: his 23 gold medals are more than double the count of his nearest rivals, and its not as if other swimmers have accrued silly numbers of medals, either. Apart from Spitz, Matt Biondi (USA, eight golds) and Jenny Thompson (USA, eight golds), no other swimmer worldwide has managed more than six gold medals in total. 23 is astonishing.",
+            "abstract":"Michael Phelps is arguably the greatest Olympian ever....",
+            "category":"Sports",
+            "location":"/images/tech-img/phelps.jfif",
+            "date":"20-August-2022"
+        }
+    ],
+    "recentSports":[
+        {
+            "num":1,
+            "title":"Usain Bolt, an elite athlete",
+            "content":"Usain Bolt currently holds the world records for men's 100m, 200m sprints and was part of the 4x100m world record-holding Jamaican quartet that included Nesta Carter, Michael Frater and Yohan Blake.Usain Bolt’s 100m recordsUsain Bolt set the current 100m world record at the 2009 IAAF World Championships, clocking an astonishing 9.58 seconds for the feat.At the record-winning event, Usain Bolt’s average ground speed was 37.58km/h, whilst reaching a top speed of 44.72km/h in the 60-80m stretch – numbers fitting for the world’s fastest man.",
+            "abstract":"Usain Bolt currently holds the world records for men's...",
+            "category":"Sports",
+            "location":"/images/tech-img/usainbolt.jfif",
+            "date":"05-June-2022"
+        },
+        {
+            "num":2,
+            "title":"Lionel Messi, Argentine Gem",
+            "content":"Lionel Messi is a football player from Argentina who plays for FC Barcelona. He has won the Ballon D'Or, the annual award given to the best player in the world, 7 times and an Olympic gold medal winner in 2008. He was born in 1987 in Rosario, Argentina's third-biggest city. He showed an enormous aptitude for football and was in the youth teams for Newell's Old Boys, his local team. Faced with mounting medical expenses to treat a growth hormone condition, Messi's family accepted an offer to move the 13-year-old prodigy to FC Barcelona, who would pay for his treatment. Messi has gone on to become one of the most decorated players in football history and has broken countless records for his club and his country.",
+            "abstract":"Lionel Messi is a football player from Argentina who plays for...",
+            "category":"Sports",
+            "location":"/images/tech-img/lionelmessi.jfif",
+            "date":"30-May-2022"
+        },
+        {
+            "num":3,
+            "title":"Cristiano Ronaldo, a phenomenon",
+            "content":"Cristiano Ronaldo is a Portuguese professional footballer who has played for Manchester United, Real Madrid, Juventus and Portugal. Along with Lionel Messi, he is regularly considered to be one of the top two players in the world. He became the world’s most expensive player when Real Madrid signed him for 94 million Euros in 2009 from Manchester United. His sustained performance has enabled him to break numerous records for goal scoring and has been named FIFA player of the year (Ballon d’Or) five times. He has become an iconic figure in the sport, with an impressive record of 1,000 professional appearances and over 700 goals.",
+            "abstract":"Cristiano Ronaldo is a Portuguese professional footballer who has played for...",
+            "category":"Sports",
+            "location":"/images/tech-img/cristiano.jfif",
+            "date":"25-June-2022"
+        }
+    ],
+    "allHollywood":[
+        {
+            "num":1,
+            "title":"Oscar Awards, cinema's pinnacle",
+            "content":"Filmsite features one of the largest, most comprehensive and detailed collections of historical information about the Academy Awards (commonly known as the Oscars) on the Web, from the beginning of the awards in 1929 to the present day. The site chronicles each year of the competitive races for many of the major awards categories, as well as major sections of Oscar facts, trivia, statistics, milestones, omissions and snubs, and with selected movie title screens and posters.",
+            "abstract":"Filmsite features one of the largest, most comprehensive...",
+            "category":"Hollywood",
+            "location":"/images/tech-img/oscar.jfif",
+            "date":"14-September-2022"
+        },
+        {
+            "num":2,
+            "title":"That '70s show, an ode to the seventies",
+            "content":"That '70s Show is an American television period teen sitcom that aired on Fox from August 23, 1998, to May 18, 2006. The series focuses on the lives of a group of six teenage friends living in fictional Point Place, Wisconsin, from May 17, 1976, to December 31, 1979.The main teenage cast members were Topher Grace, Mila Kunis, Ashton Kutcher, Danny Masterson, Laura Prepon, Wilmer Valderrama, and Lisa Robin Kelly. The main adult cast members were Debra Jo Rupp, Kurtwood Smith, Don Stark, Tommy Chong, and Tanya Roberts.",
+            "abstract":"That '70s Show is an American television period teen...",
+            "category":"Hollywood",
+            "location":"/images/tech-img/wisconsin.jfif",
+            "date":"24-August-2022"
+        },
+        {
+            "num":3,
+            "title":"Denzel Washington, class and prudence",
+            "content":"Denzel Hayes Washington, Jr. is an American actor and director. He has garnered much critical acclaim for his work in film since the 1990s, including for his portrayals of real-life figures, such as Steve Biko, Malcolm X, Rubin Hurricane Carter, Melvin B. Tolson, Frank Lucas and Herman Boone.Washington has been awarded three Golden Globe awards and two Academy Awards for his work. He is notable as the second African American man (after Sidney Poitier) to win the Academy Award for Best Actor, which he received for his role in the 2001 film Training Day.",
+            "abstract":"Denzel Hayes Washington, Jr. is an American actor and director...",
+            "category":"Hollywood",
+            "location":"/images/tech-img/denzel.jfif",
+            "date":"15-June-2022"
+        },
+        {
+            "num":4,
+            "title":"Avengers! Assemble!",
+            "content":"After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.The grave course of events set in motion by Thanos, that wiped out half the universe and fractured the Avengers ranks, compels the remaining Avengers to take one final stand in Marvel Studios' grand conclusion to twenty-two films - Avengers: Endgame.",
+            "abstract":"After the devastating events of Avengers:...",
+            "category":"Hollywood",
+            "location":"/images/tech-img/avengers.jfif",
+            "date":"30-January-2022"
+        },
+        {
+            "num":5,
+            "title":"Kung-Fu Panda, a tale that inspires",
+            "content":"Enthusiastic, big and a little clumsy, Po is the biggest fan of kung fu around which doesn't exactly come in handy while working every day in his family's noodle shop. Unexpectedly chosen to fulfill an ancient prophecy, Po's dreams become reality when he joins the world of kung fu and studies alongside his idols—the legendary fighters Tigress, Crane, Mantis, Viper and Monkey—under the leadership of their teacher and trainer, Master Shifu. But before they know it, the vengeful and treacherous snow leopard Tai Lung is headed their way, and it's up to Po to defend everyone from the oncoming threat. Can he turn his dream of becoming a kung fu master into reality? Po puts his heart—and his girth—into the task, and the unlikely hero ultimately finds that his greatest weaknesses turn out to be his greatest strengths.",
+            "abstract":"Enthusiastic, big and a little clumsy, Po is the biggest fan....",
+            "category":"Hollywood",
+            "location":"/images/tech-img/kungfupanda.jfif",
+            "date":"29-April-2022"
+        }
+    ],
+    "recentHollywood":[
+        {
+            "num":1,
+            "title":"Oscar Awards, cinema's pinnacle",
+            "content":"Filmsite features one of the largest, most comprehensive and detailed collections of historical information about the Academy Awards (commonly known as the Oscars) on the Web, from the beginning of the awards in 1929 to the present day. The site chronicles each year of the competitive races for many of the major awards categories, as well as major sections of Oscar facts, trivia, statistics, milestones, omissions and snubs, and with selected movie title screens and posters.",
+            "abstract":"Filmsite features one of the largest, most comprehensive...",
+            "category":"Hollywood",
+            "location":"/images/tech-img/oscar.jfif",
+            "date":"14-September-2022"
+        },
+        {
+            "num":2,
+            "title":"That '70s show, an ode to the seventies",
+            "content":"That '70s Show is an American television period teen sitcom that aired on Fox from August 23, 1998, to May 18, 2006. The series focuses on the lives of a group of six teenage friends living in fictional Point Place, Wisconsin, from May 17, 1976, to December 31, 1979.The main teenage cast members were Topher Grace, Mila Kunis, Ashton Kutcher, Danny Masterson, Laura Prepon, Wilmer Valderrama, and Lisa Robin Kelly. The main adult cast members were Debra Jo Rupp, Kurtwood Smith, Don Stark, Tommy Chong, and Tanya Roberts.",
+            "abstract":"That '70s Show is an American television period teen...",
+            "category":"Hollywood",
+            "location":"/images/tech-img/wisconsin.jfif",
+            "date":"24-August-2022"
+        },
+        {
+            "num":3,
+            "title":"Denzel Washington, class and prudence",
+            "content":"Denzel Hayes Washington, Jr. is an American actor and director. He has garnered much critical acclaim for his work in film since the 1990s, including for his portrayals of real-life figures, such as Steve Biko, Malcolm X, Rubin Hurricane Carter, Melvin B. Tolson, Frank Lucas and Herman Boone.Washington has been awarded three Golden Globe awards and two Academy Awards for his work. He is notable as the second African American man (after Sidney Poitier) to win the Academy Award for Best Actor, which he received for his role in the 2001 film Training Day.",
+            "abstract":"Denzel Hayes Washington, Jr. is an American actor and director...",
+            "category":"Hollywood",
+            "location":"/images/tech-img/denzel.jfif",
+            "date":"15-June-2022"
+        }
+    ],
+    "allFood":[
+        {
+            "num":1,
+            "title":"Gordon Ramsay, fiery cook",
+            "content":"Gordon Ramsay, (born November 8, 1966, Johnstone, Scotland), Scottish chef and restaurateur known for his highly acclaimed restaurants and cookbooks but perhaps best known in the early 21st century for the profanity and fiery temper that he freely displayed on television cooking programs. As a young boy, Ramsay moved with his family from Scotland to England, where he was raised in Stratford-upon-Avon. He played association football (soccer) for the Oxford United youth team, and at age 15 he was courted by the Scottish Premier League Glasgow Rangers. A knee injury ultimately prevented him from pursuing a career in football.",
+            "abstract":"Gordon Ramsay, (born November 8, 1966, Johnstone, Scotland), Scottish chef...",
+            "category":"Food",
+            "location":"/images/tech-img/gordon.jfif",
+            "date":"27-June-2022"
+        },
+        {
+            "num":2,
+            "title":"MasterChef US, a cook's apotheosis",
+            "content":"MasterChef is an American competitive cooking reality TV show based on the British series of the same name, open to amateur and home chefs. Produced by Endemol Shine North America and One Potato Two Potato, it debuted on July 27, 2010 on the Fox network, following the professional cooking competition series Hell's Kitchen. For the first five seasons, the series starred celebrity chefs Gordon Ramsay (the co-creator of the series and Hell's Kitchen), Graham Elliot and restaurateur Joe Bastianich. From seasons six through eight, pastry chef Christina Tosi temporarily replaced Bastianich. On season seven, Elliot departed as a judge, and in place of a third judge, there were a series of guest judges, one of which was Aarón Sanchez. Since season eight, Sanchez joined as a regular judge. In season nine, Bastianich returned as a regular judge, replacing Tosi. On September 19, 2018, it was announced that the series had been renewed for a tenth season, which premiered on May 29, 2019 with Ramsay, Sanchez, and Bastianich returning as judges",
+            "abstract":"MasterChef is an American competitive cooking reality TV show...",
+            "category":"Food",
+            "location":"/images/tech-img/masterchef.jfif",
+            "date":"25-November-2022"
+        },
+        {
+            "num":3,
+            "title":"The Elegance of Italian Cuisine",
+            "content":"If you've dined with us at Cucina Rustica, you'll agree that there is much more to Italian food than just pasta and pizza so we thought we’d give you a quick history lesson on Italian food! Italy expands over a sizeable piece of southern Europe and has many different regions each having their own special cuisine and eating habits. The cooking styles and ingredients also vary from area to area. The cuisine of Italy has also been influenced with the changes that have taken place in the world throughout history. Today, Italian cuisine features meals that retain the pre Roman era taste along with others that are strikingly different to the traditional cuisine of Italy.",
+            "abstract":"If you've dined with us at Cucina Rustica, you'll...",
+            "category":"Food",
+            "location":"/images/tech-img/italianfood.jfif",
+            "date":"30-August-2022"
+        },
+        {
+            "num":4,
+            "title":"South Indian's emminent snack, Idli!",
+            "content":"When one thinks of south-Indian food, the humble idli is the first dish that comes to mind. To the uninitiated, this is a savory rice cake that is made by steaming a fermented mixture of rice and pulses.Though the idli is today recognized as a south-Indian delicacy, it may have originated elsewhere. Many believe that the idli came to India between 800-1200CE from Indonesia where it is known as a kedli. Given the many links between south Indian rulers and Indonesian rulers, this is not very hard to believe.Others believe that Arab traders introduced the Indian coasts to idlis. These Arab traders had strict dietary norms and hence instead of eating the local food which may not have been halaal, they ate flattened rice balls with a coconut paste.",
+            "abstract":"When one thinks of south-Indian food, the humble idli...",
+            "category":"Food",
+            "location":"/images/tech-img/idli.jpg",
+            "date":"21-Apri-2022"
+        },
+        {
+            "num":5,
+            "title":"Noodles, Asia's staple food",
+            "content":"Wheat noodles are favored by many consumers because of their convenient preparation, unique taste and flavor, and affordable costs. With the development of the world economy and the increasing awareness of health and nutrition, consumers demand higher requirements for nutritional quality, texture, taste, and flavor of noodle products. Meanwhile, with the automation of noodle production, the noodle manufacturers require good and consistent processing properties of noodles. To meet these new demands, many functional ingredients have been adopted in noodle products for improved processing and eating qualities and the diverse functionality of noodles. These functional ingredients have contributed to the rapid growth of the modern noodle processing industry. This chapter reviews various types of ingredients that have been used or have the potential to be incorporated into noodle products, to provide useful guidance for commercial noodle manufacturing.",
+            "abstract":"Wheat noodles are favored by many consumers because of their....",
+            "category":"Food",
+            "location":"/images/tech-img/noodles.jfif",
+            "date":"29-February-2022"
+        }
+    ],
+    "recentFood":[
+        {
+            "num":1,
+            "title":"Gordon Ramsay, fiery cook",
+            "content":"Gordon Ramsay, (born November 8, 1966, Johnstone, Scotland), Scottish chef and restaurateur known for his highly acclaimed restaurants and cookbooks but perhaps best known in the early 21st century for the profanity and fiery temper that he freely displayed on television cooking programs. As a young boy, Ramsay moved with his family from Scotland to England, where he was raised in Stratford-upon-Avon. He played association football (soccer) for the Oxford United youth team, and at age 15 he was courted by the Scottish Premier League Glasgow Rangers. A knee injury ultimately prevented him from pursuing a career in football.",
+            "abstract":"Gordon Ramsay, (born November 8, 1966, Johnstone, Scotland), Scottish chef...",
+            "category":"Food",
+            "location":"/images/tech-img/gordon.jfif",
+            "date":"27-June-2022"
+        },
+        {
+            "num":2,
+            "title":"MasterChef US, a cook's apotheosis",
+            "content":"MasterChef is an American competitive cooking reality TV show based on the British series of the same name, open to amateur and home chefs. Produced by Endemol Shine North America and One Potato Two Potato, it debuted on July 27, 2010 on the Fox network, following the professional cooking competition series Hell's Kitchen. For the first five seasons, the series starred celebrity chefs Gordon Ramsay (the co-creator of the series and Hell's Kitchen), Graham Elliot and restaurateur Joe Bastianich. From seasons six through eight, pastry chef Christina Tosi temporarily replaced Bastianich. On season seven, Elliot departed as a judge, and in place of a third judge, there were a series of guest judges, one of which was Aarón Sanchez. Since season eight, Sanchez joined as a regular judge. In season nine, Bastianich returned as a regular judge, replacing Tosi. On September 19, 2018, it was announced that the series had been renewed for a tenth season, which premiered on May 29, 2019 with Ramsay, Sanchez, and Bastianich returning as judges",
+            "abstract":"MasterChef is an American competitive cooking reality TV show...",
+            "category":"Food",
+            "location":"/images/tech-img/masterchef.jfif",
+            "date":"25-November-2022"
+        },
+        {
+            "num":3,
+            "title":"The Elegance of Italian Cuisine",
+            "content":"If you've dined with us at Cucina Rustica, you'll agree that there is much more to Italian food than just pasta and pizza so we thought we’d give you a quick history lesson on Italian food! Italy expands over a sizeable piece of southern Europe and has many different regions each having their own special cuisine and eating habits. The cooking styles and ingredients also vary from area to area. The cuisine of Italy has also been influenced with the changes that have taken place in the world throughout history. Today, Italian cuisine features meals that retain the pre Roman era taste along with others that are strikingly different to the traditional cuisine of Italy.",
+            "abstract":"If you've dined with us at Cucina Rustica, you'll...",
+            "category":"Food",
+            "location":"/images/tech-img/italianfood.jfif",
+            "date":"30-August-2022"
+        }
+    ],
+    "allFitness":[
+        {
+            "num":1,
+            "title":"Arnold, the Terminator",
+            "content":"Arnold Schwarzenegger is known all over the globe for his many accomplishments: world champion bodybuilder, Hollywood action hero, successful businessman, environmentalist, philanthropist, best-selling author, and California's 38th Governor.This world-famous athlete and actor was born in Thal, Austria in 1947, and by the age of 20 was dominating the sport of competitive bodybuilding, becoming the youngest person ever to win the Mr. Universe title. By generating a new international audience for bodybuilding, Schwarzenegger turned himself into a sports icon. With his sights set on Hollywood, he emigrated to America in 1968, and went on to win five Mr. Universe titles and seven Mr. Olympia titles before retiring to dedicate himself to acting. Later, he would go on to earn a college degree from the University of Wisconsin and proudly became a U.S. citizen.",
+            "abstract":"Arnold Schwarzenegger is known all over the globe for his many accomplishments...",
+            "category":"Fitness",
+            "location":"/images/tech-img/arnold.jfif",
+            "date":"23-December-2022"
+        },
+        {
+            "num":2,
+            "title":"Zyzz, a worldwide sensation",
+            "content":"Aziz Shavershian, popularly known as Zyzz, was a Russian born Australian body builder, personal trainer, and internet celebrity. He was also known as a model, dancer and stripper. He began focusing on body building and nutrition after completing high school and within a few years he established a body building cult by himself. He used to post personal videos and messages on YouTube, which in turn increased his viewer base and accelerated his popularity. Aziz Shavershian was known to have regarded Frank Zane and Arnold Schwarzenegger as his role models as they were his favorite body builders. In his short life, he had released his own clothing line and protein powder label in addition to gaining an international reputation as a body builder. He died due to a heart attack at the age of 22.",
+            "abstract":"Aziz Shavershian, popularly known as Zyzz...",
+            "category":"Fitness",
+            "location":"/images/tech-img/zyzz.jfif",
+            "date":"17-March-2022"
+        },
+        {
+            "num":3,
+            "title":"Chris Bumstead, Big time fitness influencer",
+            "content":"Chris Bumstead was born 1995 in Ontario, Canada. Growing up, he played multiple sports where he learned that in order to be the best, he had to train on his personal time. By going to the gym to perfect his craft, he learned valuable lessons in health and fitness that have transitioned into his bodybuilding career. Chris spent hours working out in the gym and ever since, he has been in love with it.Chris Bumstead stepped on stage for the first time as a bodybuilding in 2014. He was hooked after his first bodybuilding competition. He knew he found his niche at that point, knowing that he had what it took to compete at the highest of levels. In 2016, Chris earned his pro card after winning the IFBB North American Bodybuilding Championship trophy at only 21 years old. Ever since then, he has continued to be a force in the Classic Physique division. As time went on, Chris saw himself walking the Olympia stage amongst the best competitors in the world. After a runner-up finish in 2017 and 2018, Bumstead was determined to take home the top prize. And so, he did.",
+            "abstract":"Chris Bumstead was born 1995 in Ontario, Canada. Growing up...",
+            "category":"Fitness",
+            "location":"/images/tech-img/chris.jfif",
+            "date":"27-February-2022"
+        },
+        {
+            "num":4,
+            "title":"Noel Deyzel, Emminent Internet fitness personality",
+            "content":"Noel Deyzel is a South African Model, fitness trainer, bodyguard and social media influencer. Noel Deyzel began his fitness journey at the age of 21. He gained popularity as a bodybuilder and trainer on YouTube by uploading about his fitness journey, diet recipes and tutorials. Noel Deyzel, or Noel is a fitness model and social media influencer. He shares content on his self-titled YouTube channel and Instagram handle, that is, noeldeyzel_bodybuilder. Noel Deyzel is an entrepreneur as well. He is the co-owner of Ryse Supplements. Noel Deyzel is also the owner of apparel line YoungLA. This apparel line mainly consists of bodybuilding and workout clothes.Noel Deyzel was born on 30th September 1984. His age, as of now, is 38 years old. There is no factual information available on the hometown of Noel Deyzel. He however is born in South Africa. Noel Deyzel is a South African.Noel Deyzel started his YouTube channel in 2008. Noel began by posting an introductory video. Later, he started posting videos on different topics such as his diet recipes, steroid use and self-acceptance. His YouTube channel has over 2 million subscribers.",
+            "abstract":"Noel Deyzel is a South African Model, fitness trainer, bodyguard and...",
+            "category":"Fitness",
+            "location":"/images/tech-img/noel.jfif",
+            "date":"10-January-2022"
+        },
+        {
+            "num":5,
+            "title":"Cristiano Ronaldo, a fitness fanatic",
+            "content":"Cristiano Ronaldo will once again graze the turf at Old Trafford as his sensational return to Manchester United was secured, leaving fellow professionals, pundits, journalists and fans alike frothing at the prospect of seeing Ronaldo once again in the famours red colours. Some 12 years after leaving Utd, Ronaldo has ripped up the record books at both Real Madrid and Juventus, as well as winning a major tournament with Portugal, his national side. What makes this move even more sensational, is that at 36 years of age, Ronaldo still posesses the physique of a 22/23 year old, albeit his game and role in the team will be different this time around. Ronaldo has kept himself in prime condition, through dedication to a gruelling workout regime",
+            "abstract":"Cristiano Ronaldo will once again graze the turf at Old Trafford as his sensational....",
+            "category":"Fitness",
+            "location":"/images/tech-img/ronaldo.jfif",
+            "date":"23-August-2022"
+        }
+    ],
+    "recentFitness":[
+        {
+            "num":1,
+            "title":"Arnold, the Terminator",
+            "content":"Arnold Schwarzenegger is known all over the globe for his many accomplishments: world champion bodybuilder, Hollywood action hero, successful businessman, environmentalist, philanthropist, best-selling author, and California's 38th Governor.This world-famous athlete and actor was born in Thal, Austria in 1947, and by the age of 20 was dominating the sport of competitive bodybuilding, becoming the youngest person ever to win the Mr. Universe title. By generating a new international audience for bodybuilding, Schwarzenegger turned himself into a sports icon. With his sights set on Hollywood, he emigrated to America in 1968, and went on to win five Mr. Universe titles and seven Mr. Olympia titles before retiring to dedicate himself to acting. Later, he would go on to earn a college degree from the University of Wisconsin and proudly became a U.S. citizen.",
+            "abstract":"Arnold Schwarzenegger is known all over the globe for his many accomplishments...",
+            "category":"Fitness",
+            "location":"/images/tech-img/arnold.jfif",
+            "date":"23-December-2022"
+        },
+        {
+            "num":2,
+            "title":"Zyzz, a worldwide sensation",
+            "content":"Aziz Shavershian, popularly known as Zyzz, was a Russian born Australian body builder, personal trainer, and internet celebrity. He was also known as a model, dancer and stripper. He began focusing on body building and nutrition after completing high school and within a few years he established a body building cult by himself. He used to post personal videos and messages on YouTube, which in turn increased his viewer base and accelerated his popularity. Aziz Shavershian was known to have regarded Frank Zane and Arnold Schwarzenegger as his role models as they were his favorite body builders. In his short life, he had released his own clothing line and protein powder label in addition to gaining an international reputation as a body builder. He died due to a heart attack at the age of 22.",
+            "abstract":"Aziz Shavershian, popularly known as Zyzz...",
+            "category":"Fitness",
+            "location":"/images/tech-img/zyzz.jfif",
+            "date":"17-March-2022"
+        },
+        {
+            "num":3,
+            "title":"Chris Bumstead, Big time fitness influencer",
+            "content":"Chris Bumstead was born 1995 in Ontario, Canada. Growing up, he played multiple sports where he learned that in order to be the best, he had to train on his personal time. By going to the gym to perfect his craft, he learned valuable lessons in health and fitness that have transitioned into his bodybuilding career. Chris spent hours working out in the gym and ever since, he has been in love with it.Chris Bumstead stepped on stage for the first time as a bodybuilding in 2014. He was hooked after his first bodybuilding competition. He knew he found his niche at that point, knowing that he had what it took to compete at the highest of levels. In 2016, Chris earned his pro card after winning the IFBB North American Bodybuilding Championship trophy at only 21 years old. Ever since then, he has continued to be a force in the Classic Physique division. As time went on, Chris saw himself walking the Olympia stage amongst the best competitors in the world. After a runner-up finish in 2017 and 2018, Bumstead was determined to take home the top prize. And so, he did.",
+            "abstract":"Chris Bumstead was born 1995 in Ontario, Canada. Growing up...",
+            "category":"Fitness",
+            "location":"/images/tech-img/chris.jfif",
+            "date":"27-February-2022"
+        }
+    ],
+    "articleIcon":"/images/tech-img/icon-article.png",
+    "blogOwner":"Ajay Kannan"
+}
